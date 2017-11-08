@@ -1,1 +1,2 @@
-salut
+
+var a = 5;
